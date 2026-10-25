@@ -41,25 +41,25 @@ All of my pre-17th-century botanical history, monograph research, and specimen m
 ### 🌐 Live Web Platforms & Projects
 
 #### General & Community Platforms
-* **[NC River Kayak Routes](https://www.ncriverkayakroutes.com/)** — Waterway directory featuring route maps, access points, real-time USGS stream gauge flow metrics, and personal accounts of routes traveled in North Carolina.
-* **[Mystic Oaks Trading Co.](https://www.mysticoakstrading.com/)** — E-commerce portal and retail apiary store featuring honeybee goods, custom merchandise, and local hive products.
-* **[Triad Orchid Society](https://www.triadorchidsociety.org/)** — Non-profit organizational portal, event schedules, meeting recaps, and resources for orchid care.
-* **[The Potted Historian](https://www.thepottedhistorian.com/)** — Historical botanical blog and pre-17th-century monograph publication site.
+- **<a href="https://www.ncriverkayakroutes.com/" target="_blank" rel="noopener noreferrer">NC River Kayak Routes</a>** — Waterway directory featuring route maps, access points, real-time USGS stream gauge flow metrics, and personal accounts of routes traveled in North Carolina.
+- **<a href="https://www.mysticoakstrading.com/" target="_blank" rel="noopener noreferrer">Mystic Oaks Trading Co.</a>** — E-commerce portal and retail apiary store featuring honeybee goods, custom merchandise, and local hive products.
+- **<a href="https://www.triadorchidsociety.org/" target="_blank" rel="noopener noreferrer">Triad Orchid Society</a>** — Non-profit organizational portal, event schedules, meeting recaps, and resources for orchid care.
+- **<a href="https://www.thepottedhistorian.com/" target="_blank" rel="noopener noreferrer">The Potted Historian</a>** — Historical botanical blog and pre-17th-century monograph publication site.
 
 #### SCA Webministry & Event Portals
-* **[Barony of the Sacred Stone](https://sacredstone.atlantia.sca.org/)** — Official baronial WordPress portal housing administrative resources, officer directories, and event information.
-* **[Canton of Middlegate](https://middlegate.atlantia.sca.org/)** — Rebuilt and deployed official WordPress site for local SCA branch operations.
-* **[Sacred Stone Baronial Birthday 2026](https://ssbb.atlantia.sca.org/2026/index.html)** — Hand-coded static event portal featuring interactive site schedules, site maps, and registration details.
-* **[Martinmas at the Tavern](https://sacredstone.atlantia.sca.org/martinmas/)** — Hand-coded event portal and registration site for Sacred Stone's Martinmas event.
+- **<a href="https://sacredstone.atlantia.sca.org/" target="_blank" rel="noopener noreferrer">Barony of the Sacred Stone</a>** — Official baronial WordPress portal housing administrative resources, officer directories, and event information.
+- **<a href="https://middlegate.atlantia.sca.org/" target="_blank" rel="noopener noreferrer">Canton of Middlegate</a>** — Rebuilt and deployed official WordPress site for local SCA branch operations.
+- **<a href="https://ssbb.atlantia.sca.org/2026/index.html" target="_blank" rel="noopener noreferrer">Sacred Stone Baronial Birthday 2026</a>** — Hand-coded static event portal featuring interactive site schedules, site maps, and registration details.
+- **<a href="https://sacredstone.atlantia.sca.org/martinmas/" target="_blank" rel="noopener noreferrer">Martinmas at the Tavern</a>** — Hand-coded event portal and registration site for Sacred Stone's Martinmas event.
 
 ---
 
 ### 📜 Persona & Living History
-* **[Ailis inghean Uí Riagáin (Atlantian Wiki)](https://wiki.atlantia.sca.org/index.php?title=Ailis_inghean_Ui_Riagain)** — SCA service record, webministry history, heraldic badge registrations, and research projects.
+- **<a href="https://wiki.atlantia.sca.org/index.php?title=Ailis_inghean_Ui_Riagain" target="_blank" rel="noopener noreferrer">Ailis inghean Uí Riagáin (Atlantian Wiki)</a>** — SCA service record, webministry history, heraldic badge registrations, and research projects.
 
 ---
 
 <p align="center">
-  🌐 <a href="https://www.thepottedhistorian.com/"><b>thepottedhistorian.com</b></a> • 
-  🏛️ <a href="https://github.com/thepottedhistorian"><b>The Potted Historian Org</b></a>
+  🌐 <a href="https://www.thepottedhistorian.com/" target="_blank" rel="noopener noreferrer"><b>thepottedhistorian.com</b></a> • 
+  🏛️ <a href="https://github.com/The-Potted-Historian" target="_blank" rel="noopener noreferrer"><b>The Potted Historian Org</b></a>
 </p>
