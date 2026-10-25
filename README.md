@@ -25,7 +25,7 @@ All of my pre-17th-century botanical history, monograph research, and specimen m
 | Project | Description | Core Stack |
 | :--- | :--- | :--- |
 | **[The Satyrion Chronicles](https://github.com/thepottedhistorian/satyrion-chronicles)** | Monograph & research on historical orchids (*Orchis mascula*). | Research, Markdown |
-| **[Orchid Tracker App](https://github.com/thepottedhistorian/OrchidTrackerDesktopApp)** | Desktop specimen logging & database application. | Python, CustomTkinter, SQLite |
+| **Orchid Tracker App** `🔒 Private Source` | Desktop specimen logging & database application. | Python, CustomTkinter, SQLite |
 | **[Orchid Tracker Docs](https://github.com/thepottedhistorian/OrchidTrackerDocs)** | Official user guides, database schemas, and system setup docs. | Jekyll, Just-the-Docs |
 | **[Orchid Management System](https://github.com/thepottedhistorian/Orchid-Management-System)** | Digital twin architecture integrating environmental cabinet sensors. | JavaScript, Automation |
 
