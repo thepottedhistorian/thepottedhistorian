@@ -20,7 +20,7 @@ My work spans enterprise technical support, custom Python and Google Apps Script
 
 ### 🌿 Botanical & Orchid Research
 All of my pre-17th-century botanical history, monograph research, and specimen management systems have moved to my dedicated GitHub Organization:
-👉 **[@thepottedhistorian](https://github.com/thepottedhistorian)**
+👉 **[@thepottedhistorian](https://github.com/The-Potted-Historian))**
 
 | Project | Description | Core Stack |
 | :--- | :--- | :--- |
